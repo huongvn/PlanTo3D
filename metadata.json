@@ -1,0 +1,5 @@
+{
+  "name": "FloorPlan 3D Visualizer",
+  "description": "Transforms 2D architectural floor plans into 3D isometric views with distinct zoning colors using Gemini AI.",
+  "requestFramePermissions": []
+}
